@@ -29,7 +29,7 @@ The diagram shows:
 
 * Services: reth, grafana, prometheus
 * Volumes: Named volumes for various data stores
-* Network ports: 3000, 9090, 8545, 8551, 30303
+* Network ports: 3000, 9090, 8545, 8551, 30303, 9001
 * Interactions: Visualized by lines connecting services and their associated volumes and ports
 
 This visualization provides a clear overview of the RETH stack architecture and how its components interact within the Docker environment.
